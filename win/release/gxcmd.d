@@ -1,1 +1,0 @@
-E:\gxshell_release\win\release\gxcmd.exe: E:\gxshell\src\cyber_gx_interpreter\gxcompiler.rs E:\gxshell\src\cyber_gx_interpreter\lexer.rs E:\gxshell\src\cyber_gx_interpreter\mod.rs E:\gxshell\src\cyber_gx_interpreter\parser.rs E:\gxshell\src\dev.rs E:\gxshell\src\env_var.rs E:\gxshell\src\gxcore.rs E:\gxshell\src\main.rs E:\gxshell\src\updater.rs
