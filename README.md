@@ -38,3 +38,62 @@ info
 ```sh
 version
 ```
+#GXCore Keywords
+### all bios options linux
+
+
+```sh
+bios --read-var
+
+bios --set-var <name> <value>
+
+bios --change-boot-order <new_order>
+
+bios --show-temp-and-fans
+
+bios --gpu-fan-speed
+
+bios --create-partition <device> <start> <end>
+
+bios --read-bios-info 
+```
+
+### windows
+
+```sh
+bios --read-var
+
+bios --set-var <name> <value>
+
+bios --change-boot-order <new_order>
+
+bios --show-temp-and-fans
+
+bios --gpu-fan-speed
+
+bios --create-partition <disc_number> <size>
+
+bios --read-bios-info 
+```
+
+### Other keywords Windows
+```sh
+set-ip-adress <interface> <ip> <gateway>
+
+add-user <username> <password>
+```
+### Linux
+
+```sh
+set-ip-adress <interface> <ip>
+
+add-user <username>
+```
+### Both 
+
+```sh
+sysinfo
+
+kill-process
+```
+
