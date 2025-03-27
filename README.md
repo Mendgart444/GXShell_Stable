@@ -5,9 +5,8 @@
 - GXCore: An Shell for changes in the BIOS/UEFI, GPU Fan speed (AMD Cards are not supported right now), And Displaying Fan speed and temp. sensores.
 
 # How to install?
-Step one: Go to the executable data for your OS. (you find it in the folder with the OS name for example: windows or linux)
-Step tow: Go to the bin folder
-Step three: Click on the Executable and click:
+Step 1: Go to the executable data for your OS. (you find it in the folder with the OS name for example: windows or linux)
+Step 2: Click on the Executable and click:
 ![alt_text](image.png)
 
 # Syntax/Keywords Book
