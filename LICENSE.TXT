@@ -1,0 +1,16 @@
+GXShell Release License
+
+Copyright (c) 2025 GXShell
+
+1. Permitted Use  
+   - The distributed applications may be used for personal and non-commercial purposes.  
+   - No modifications or reverse engineering of the provided binaries are allowed.  
+
+2. Restrictions  
+   - Redistribution of the provided applications, in whole or in part, is not permitted without explicit authorization.  
+   - Commercial use of the applications requires a separate license agreement.  
+
+3. No Warranty  
+   - The applications are provided "as is" without any warranties or guarantees. Use at your own risk.  
+
+For inquiries regarding commercial use or redistribution, please contact the GXShell development team.
